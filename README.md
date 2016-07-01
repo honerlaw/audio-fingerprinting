@@ -1,7 +1,7 @@
 # Audio Fingerprinting Library
 A simple java library for fingerprinting audio files.
 
-### To install in and use
+### To install and use
 
 1. Install ffmpeg and set `FFMPEG_PATH` to the ffmpeg executable.
 2. Build the project using `mvn clean install assembly:single`
