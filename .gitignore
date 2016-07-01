@@ -1,0 +1,10 @@
+.settings/
+.vertx/
+.project
+.settings
+.classpath
+target/
+*.wav
+.DS_Store
+node_modules/
+typings/
