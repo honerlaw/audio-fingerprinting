@@ -108,7 +108,7 @@ public class AudioFile {
 		// make the directory if it doesn't exist
 		File wavsDir = new File(Directory.WAV);
 		if(!wavsDir.exists()) {
-			wavsDir.mkdir();
+			wavsDir.mkdirs();
 		}
 		
 		// convert the file to a 16 bit mono .wav file
